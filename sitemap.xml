@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://muhammadfaizan92.github.io/Cors-/sitemap.xml</loc>
-  </url>
+  <url><loc>https://<your-site>/</loc></url>
+  <url><loc>http://127.0.0.1/</loc></url>
+  <url><loc>http://127.0.0.1:8000/socket.io/?EIO=4&amp;transport=polling</loc></url>
+  <url><loc>http://169.254.169.254/latest/meta-data/instance-id</loc></url>
 </urlset>
